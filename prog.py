@@ -10,6 +10,5 @@ def printMany(word,n):
 
 
 
-if __ name __ == "__main__":
+if __name__ == "__main__":
   printMany("Hello world",10)
-
